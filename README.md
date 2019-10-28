@@ -12,7 +12,7 @@
 ## Elementos necesarios ##
 
 ### Software ###
-1. Entorno integrado de desarrollo (IDE)[Arduino](https://www.arduino.cc/)
+1. Entorno integrado de desarrollo (IDE) [Arduino](https://www.arduino.cc/)
 2. Simulador online [tinkercad](https://www.tinkercad.com/)
 3. Protrama para la realización de circutos electrico [fritzing](https://fritzing.org/home/)
 
