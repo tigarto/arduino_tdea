@@ -20,3 +20,6 @@
 7. [Beginning Arduino](https://www.elecrow.com/download/[Beginning.Arduino].Michael.McRoberts.pdf)
 https://www.tdea.edu.co/images/tdea/galeria/extension/documentos/curso_arduino_6_junio_2018.pdf
 8. [Curso basico de Arduino](https://www.wittronics.com.mx/wp-content/uploads/2018/08/Curso-de-Arduino-Basico-1ra-Edicion-Saenz-Flores-Misael.pdf)
+9. [Arduino - Curso practico de formación](http://cienciesvirtuals.com/wp-content/uploads/2016/11/Arduino_Curso_Practico_de_Formacion.pdf)
+10. [Prácticas con Arduino - EDUBÁSICA](https://electronicafiuv.files.wordpress.com/2014/03/practicasconarduino2.pdf)
+11. [PROCESAMIENTO DIGITAL DE SEÑALES - PRÁCTICAS DE LABORATORIO CON ARDUINO DUE](http://galia.fc.uaslp.mx/~ducd/cursos/DSP/Arduino_DUE_Enero2016.pdf)
