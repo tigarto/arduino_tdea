@@ -5,6 +5,11 @@
 [Introducción: Arduino/Genuino SparkFun Inventor's Kit](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-the-arduino-101genuino-101-board-spanish)
 [Ejemplos](https://cdn.sparkfun.com/assets/learn_tutorials/4/9/2/101_SIK_Guide_Code.zip) 
 
+
+[tinkercad](https://www.tinkercad.com/)
+[fritzing](https://fritzing.org/home/)
+[arduino](https://www.arduino.cc/)
+
 ## Enlaces ##
 1. [Aprendiendo Arduino](https://aprendiendoarduino.wordpress.com/tag/esp32/)
 2. [Getting Started with Arduino](http://cmuems.com/resources/getting_started_with_arduino.pdf)
